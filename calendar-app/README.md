@@ -23,4 +23,4 @@ npm install
 npm run dev
 ```
 
-## URL: 
+## URL: https://calendar-app-mauve-two.vercel.app/
